@@ -19,7 +19,7 @@ Email: zevenrodriguez at miami dot edu
 * Setting up your Web Hosting
 * Domain Names
 
-https://www.dreamhost.com/promo/edu/
+[https://www.dreamhost.com/promo/edu/](https://www.dreamhost.com/promo/edu/)
 
 
 ###Week 2 - Introduction to Wordpress (Jan 24th - 26th)
