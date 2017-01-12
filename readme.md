@@ -1,26 +1,19 @@
 #Welcome to Weblab
 
 CIM 111-P
-
 Web Lab
-
 Tu-Th 11:00 – 12:15 PM
-
 Spring Semester 2017
-
 Class Site: https://github.com/zevenrodriguez/CIM111 
 
 
 Prof. Zevensuy Rodriguez
-
 Office Location: Wolfson Building 2022
-
 Office Hours: [https://zeven.youcanbook.me/](https://zeven.youcanbook.me/)
-
 Email: zevenrodriguez at miami dot edu
 
 
-###Week 1 - Introduction to Web (Jan 17th-19th)
+###[Week 1 - Introduction to Web (Jan 17th-19th)](https://github.com/zevenrodriguez/CIM111/tree/master/week1)
 
 * Introduction to the Web
 * Setting up your Web Hosting
