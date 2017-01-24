@@ -12,3 +12,17 @@
 [Lynda Wordpress Tutorial](http://www.lynda.com/WordPress-training-tutorials/330-0.html)
 
 
+##Homework
+
+###First Website (100 Points) - Due Feb 2nd
+
+Create a simple 3 page Wordpress site. 
+* Install Wordpress
+ * Install a theme
+ * Add Menu
+* 3 Pages Include:
+ * Intro page
+  * Include an image of yourself
+  * Bio
+ * Resume page
+ * Interest page
