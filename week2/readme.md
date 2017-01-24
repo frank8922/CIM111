@@ -26,3 +26,4 @@ Create a simple 3 page Wordpress site.
     * Bio
  * Resume page
  * Interest page
+  * Should Include a minimum of 5 Images
