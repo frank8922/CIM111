@@ -29,7 +29,7 @@ Email: zevenrodriguez at miami dot edu
 [https://www.dreamhost.com/promo/edu/](https://www.dreamhost.com/promo/edu/)
 
 
-###Week 2 - Introduction to Wordpress (Jan 24th - 26th)
+###[Week 2 - Introduction to Wordpress (Jan 24th - 26th)](https://github.com/zevenrodriguez/CIM111/tree/master/week2)
 
 * Basic Web Design
 * Getting Starting with Wordpress
