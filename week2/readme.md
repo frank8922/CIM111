@@ -22,7 +22,7 @@ Create a simple 3 page Wordpress site.
  * Add Menu
 * 3 Pages Include:
  * Intro page
-  * Include an image of yourself
-  * Bio
+   * Include an image of yourself
+   * Bio
  * Resume page
  * Interest page
