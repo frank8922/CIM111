@@ -23,6 +23,6 @@ Create a simple 3 page Wordpress site.
 * 3 Pages Include:
  * Intro page
    * Include an image of yourself
-   * Bio
+    * Bio
  * Resume page
  * Interest page
