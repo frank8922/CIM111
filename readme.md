@@ -19,6 +19,8 @@ Office Hours: [https://zeven.youcanbook.me/](https://zeven.youcanbook.me/)
 
 Email: zevenrodriguez at miami dot edu
 
+##[Syllabus](https://github.com/zevenrodriguez/CIM111/blob/master/files/CIM111-P-S17-Weblab.pdf)
+
 
 ###[Week 1 - Introduction to Web (Jan 17th-19th)](https://github.com/zevenrodriguez/CIM111/tree/master/week1)
 
