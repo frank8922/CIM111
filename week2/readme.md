@@ -27,4 +27,4 @@ Create a simple 3 page Wordpress site.
  * Resume page
  * Interest page
   * Should Include a minimum of 5 Images (10 Points)
-  * Presentation (10 Points)
+* Presentation (10 Points)
