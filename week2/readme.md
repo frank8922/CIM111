@@ -17,13 +17,14 @@
 ###First Website (100 Points) - Due Feb 2nd
 
 Create a simple 3 page Wordpress site. 
-* Install Wordpress
- * Install a theme
- * Add Menu
-* 3 Pages Include:
+* Install Wordpress (20 Points)
+ * Install a theme (15 Points)
+ * Add Menu (15 Points)
+* 3 Pages Include: (30 Points)
  * Intro page
    * Include an image of yourself
     * Bio
  * Resume page
  * Interest page
-  * Should Include a minimum of 5 Images
+  * Should Include a minimum of 5 Images (10 Points)
+  * Presentation (10 Points)
