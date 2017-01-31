@@ -37,8 +37,10 @@ Email: zevenrodriguez at miami dot edu
 * Getting Starting with Wordpress
 
 
-###Week 3 - Finishing up Wordpress (Jan 31st - Feb 2nd)
+###[Week 3 - Finishing up Wordpress (Jan 31st - Feb 2nd)](https://github.com/zevenrodriguez/CIM111/tree/master/week3)
 * Installing Themes
+* FTP
+* Backing Up
 
 
 ###Week 4 - HTML (Feb 7th - 9th)

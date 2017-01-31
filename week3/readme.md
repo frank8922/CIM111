@@ -20,7 +20,11 @@ Important files are located in wp-content. The structure is broken down like:
  * upgrade
  * uploads
  
+ ####Backing up
  
+ The main folder you want to save is the uploads folder. But you can back up the wp-content just in case.
+
+ In wordpress, you want to go to Tools > Export > Download Export File
 
 ###First Website (100 Points) - Due Feb 2nd
 
