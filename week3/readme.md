@@ -50,18 +50,6 @@ Create a simple 3 page Wordpress site.
 
 Brackets is a text editor. While most html can be written notepad or text edit. More modern text editors like Brackets give you advanced options and features that make your life a little easier.
 
-SETTING UP YOUR WORK ENVIRONMENT
-
-When ever you start a new project, you should normally start with these 3 folder and your index.html file in your directory. The index file is the default file a server looks for in your directory.
-
-css or stylesheets
-images or media
-js or javascript
-index.html
-INTRO TO HTML
-
-
-
 ```
 
 <!DOCTYPE html>
