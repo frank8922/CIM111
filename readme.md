@@ -41,6 +41,7 @@ Email: zevenrodriguez at miami dot edu
 * Installing Themes
 * FTP
 * Backing Up
+* Intro to HTML
 
 
 ###Week 4 - HTML (Feb 7th - 9th)
