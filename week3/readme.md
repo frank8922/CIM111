@@ -158,15 +158,32 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 *From w3schools*
 
 
-Assignment:
+##Uploading to your server
+
+* Open and login to your ftp server
+* Open the folder with your url on it
+* Right click and create a new folder in your main directory
+ * Name the folder hw
+ * All of your assignements should be placed in this folder
+
+
+###Assignment:
 
 Go over HTML5 Doctor/ w3schools html types above
 
-Create an html page with a basic bio
-head
-Add a title
-body
-Use a header tag
-paragraph tag
+* Create an html page with a basic bio
+ * head
+ * Add a title
+ * body
+ * Use a header tag
+ * paragraph tag
+* Save the file as index.html
+* Open your hw folder
+* Create a new folder called week3
+ * For every assignment make a directory for that week
+* Open your week3 folder
+* drag your html file into the folder
+* visit http://yoururl.com/hw/week3/index.html
+
 
 
