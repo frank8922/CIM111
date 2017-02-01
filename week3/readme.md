@@ -44,6 +44,8 @@ Create a simple 3 page Wordpress site.
 
 #Intro to HTML
 
+[Slides](https://github.com/zevenrodriguez/CIM111/blob/master/slides/HTML.pdf)
+
 ###INTRO TO BRACKETS
 
 ####What is Brackets?
