@@ -81,166 +81,93 @@ INTRO TO HTML
 
 ```
 
-Important HTML Tags
+###Important HTML Tags
 
-Head
+####Head
 
-doctype - Defines the document type
-html - Defines an HTML document
-head - Defines information about the document
-title - Defines a title for the document
-link - Defines the relationship between a document and an external resource
-meta - Defines metadata about an HTML document
-style - Defines style information for a document i.e. CSS
-script - Defines a client-side script
-noscript - Defines an alternate content for users that do not support client-side scripts
-Comments
+[doctype](http://www.w3schools.com/tags/tag_doctype.asp) - Defines the document type
+[html](http://www.w3schools.com/tags/tag_html.asp) - Defines an HTML document
+[head](http://www.w3schools.com/tags/tag_head.asp) - Defines information about the document
+[title](http://www.w3schools.com/tags/tag_title.asp) - Defines a title for the document
+[link](http://www.w3schools.com/tags/tag_link.asp) - Defines the relationship between a document and an external resource
+[meta](http://www.w3schools.com/tags/tag_meta.asp) - Defines metadata about an HTML document
+[style](http://www.w3schools.com/tags/tag_style.asp) - Defines style information for a document i.e. CSS
+[script](http://www.w3schools.com/tags/tag_script.asp) - Defines a client-side script
+[noscript](http://www.w3schools.com/tags/tag_noscript.asp) - Defines an alternate content for users that do not support client-side scripts
 
-<!-- ... -->  - Defines a comment
-Sections
+####Comments
 
-body - Defines the document's body
-article - Defines an article
-nav - Defines navigation links
-aside - Defines content aside from the page content
-section
-header - Defines a header for a document or section
-footer - Defines a footer for a document or section
-h1-h6 - Defines HTML headings
-main - Specifies the main content of a document
-address - Defines contact information for the author/owner of a document/article
-br - Inserts a single line break
-Grouping
+[```<!-- ... -->```](http://www.w3schools.com/tags/tag_comment.asp)  - Defines a comment
 
-p - Defines a paragraph
-hr - Defines a thematic change in the content
-pre - Defines preformatted text
-blockquote - Defines a section that is quoted from another source
-ol - Defines an ordered list
-ul - Defines an unordered list
-li - Defines a list item
-figure - Specifies self-contained content
-figcaption - Defines a caption for a <figure> element
-div - Defines a section in a document
-Tables
+####Sections
 
-table - Defines a table
-tr - Defines a row in a table
-th -Defines a header cell in a table
-td - Defines a cell in a table
+[body](http://www.w3schools.com/tags/tag_body.asp) - Defines the document's body
+[article](http://www.w3schools.com/tags/tag_article.asp) - Defines an article
+[nav](http://www.w3schools.com/tags/tag_nav.asp) - Defines navigation links
+[aside](http://www.w3schools.com/tags/tag_aside.asp) - Defines content aside from the page content section
+[header](http://www.w3schools.com/tags/tag_footer.asp) - Defines a header for a document or section
+[footer](http://www.w3schools.com/tags/tag_footer.asp) - Defines a footer for a document or section
+[h1-h6](http://www.w3schools.com/tags/tag_hn.asp) - Defines HTML headings
+[main](http://www.w3schools.com/tags/tag_main.asp) - Specifies the main content of a document
+[address](http://www.w3schools.com/tags/tag_address.asp) - Defines contact information for the author/owner of a document/article
+[br](http://www.w3schools.com/tags/tag_br.asp) - Inserts a single line break
 
+####Grouping
 
-Forms
+[p](http://www.w3schools.com/tags/tag_p.asp) - Defines a paragraph
+[blockquote](http://www.w3schools.com/tags/tag_blockquote.asp) - Defines a section that is quoted from another source
+[ol](http://www.w3schools.com/tags/tag_ol.asp) - Defines an ordered list
+[ul](http://www.w3schools.com/tags/tag_ul.asp) - Defines an unordered list
+[li](http://www.w3schools.com/tags/tag_li.asp) - Defines a list item
+[figure](http://www.w3schools.com/tags/tag_figure.asp) - Specifies self-contained content
+[figcaption](http://www.w3schools.com/tags/tag_figcaption.asp) - Defines a caption for a ```<figure>``` element
+[div](http://www.w3schools.com/tags/tag_div.asp) - Defines a section in a document
 
-form - Defines an HTML form for user input
-fieldset - Groups related elements in a form
-label - Defines a label for an <input> element
-input -Defines an input control
-button - Defines a clickable button
-select - Defines a drop-down list
-option - Defines an option in a drop-down list
-textarea - Defines a multiline input control (text area)
+####Tables
+
+[table](http://www.w3schools.com/tags/tag_table.asp) - Defines a table
+[tr](http://www.w3schools.com/tags/tag_tr.asp) - Defines a row in a table
+[th](http://www.w3schools.com/tags/tag_th.asp) -Defines a header cell in a table
+[td](http://www.w3schools.com/tags/tag_td.asp) - Defines a cell in a table
 
 
-Embedded
+####Forms
 
-img - Defines an image
-iframe - Defines an inline frame
-embed - Defines a container for an external (non-HTML) application
-object - Defines an embedded object
-video - Defines a video or movie
-audio - Defines sound content
-canvas - Used to draw graphics, on the fly, via scripting (usually JavaScript)
+[form](http://www.w3schools.com/tags/tag_form.asp) - Defines an HTML form for user input
+[fieldset](http://www.w3schools.com/tags/tag_fieldset.asp) - Groups related elements in a form
+[label](http://www.w3schools.com/tags/tag_label.asp) - Defines a label for an <input> element
+[input](http://www.w3schools.com/tags/tag_input.asp) -Defines an input control
+[button](http://www.w3schools.com/tags/tag_button.asp) - Defines a clickable button
+[select](http://www.w3schools.com/tags/tag_select.asp) - Defines a drop-down list
+[option](http://www.w3schools.com/tags/tag_option.asp) - Defines an option in a drop-down list
+[textarea](http://www.w3schools.com/tags/tag_textarea.asp) - Defines a multiline input control (text area)
 
+####Embedded
 
-Text-level
-
-a - Defines a hyperlink
-em - Defines emphasized text
-strong - Defines important text
-i - Defines a part of text in an alternate voice or mood
-b - Defines bold text
-u - Underline
-s - Defines text that is no longer correct
-small - Defines smaller text
-abbr - Defines an abbreviation or an acronym
-q - Defines a short quotation
-cite
-<!DOCTYPE HTML>
-
-<html>
-
-    <head>
-        <title>My super dupper awesome website!!!!!</title>
-    </head>
-
-    <body>
-        <h1>This is a largest header</h1>
-
-        <h2>heading 2</h2>
-
-        <h3>heading 2</h3>
-
-        <h4>heading 2</h4>
-
-        <h5>heading 2</h5>
-
-        <h6>heading 2</h6>
-
-        <p>
-            I this is my most favorite class. It is amazing!!!!!
-        </p>
-
-        <p>
-            This content has a
-            </br></br></br></br> break
-
-        </p>
-
-        <p>
-            This is a <em>italics</em> tag.
-        </p>
-
-        <p>
-            This is a <b>bold</b> tag.
-        </p>
-
-        <b>This is also bold</b>
-        <em>This is also italics</em>
-
-        <p>
-            This is also kind of <i>italics</i>.
-        </p>
-
-         <p>
-            This is a <strong>strong</strong> tag.
-        </p>
-
-        <ol>
-            <li>pizza</li>
-            <li>Chicken Nuggets</li>
-            <li>Sesame Chicken</li>
-        </ol>
-
-        <ul>
-            <li>
-                Cheese Cake
-                <ol>
-                    <li>Chocolate Swirl</li>
-                    <li>Key Lime</li>
-                    <li>Strawberry</li>
-                </ol>
-
-            </li>
-            <li>Ice Cream</li>
-            <li>Brownies</li>
-        </ul>
+[img](http://www.w3schools.com/tags/tag_img.asp) - Defines an image
+[iframe](http://www.w3schools.com/tags/tag_iframe.asp) - Defines an inline frame
+[embed](http://www.w3schools.com/tags/tag_embed.asp) - Defines a container for an external (non-HTML) application
+[object](http://www.w3schools.com/tags/tag_object.asp) - Defines an embedded object
+[video](http://www.w3schools.com/tags/tag_video.asp) - Defines a video or movie
+[audio](http://www.w3schools.com/tags/tag_audio.asp) - Defines sound content
+[canvas](http://www.w3schools.com/tags/tag_canvas.asp) - Used to draw graphics, on the fly, via scripting (usually JavaScript)
 
 
+####Text-level
 
-    </body>
+[a](http://www.w3schools.com/tags/tag_a.asp) - Defines a hyperlink
+[em](http://www.w3schools.com/tags/tag_em.asp) - Defines emphasized text
+[strong](http://www.w3schools.com/tags/tag_strong.asp) - Defines important text
+[i](http://www.w3schools.com/tags/tag_i.asp) - Defines a part of text in an alternate voice or mood
+[b](http://www.w3schools.com/tags/tag_b.asp) - Defines bold text
+[u](http://www.w3schools.com/tags/tag_u.asp) - Underline
+[s](http://www.w3schools.com/tags/tag_s.asp) - Defines text that is no longer correct
+[small](http://www.w3schools.com/tags/tag_small.asp) - Defines smaller text
+[abbr](http://www.w3schools.com/tags/tag_abbr.asp) - Defines an abbreviation or an acronym
+[q](http://www.w3schools.com/tags/tag_q.asp) - Defines a short quotation
+[cite](http://www.w3schools.com/tags/tag_cite.asp) -  tag defines the title of a work (e.g. a book, a song, a movie, a TV show, a painting, a sculpture, etc.)
 
-</html>
+*From w3schools*
 
 
 Assignment:
