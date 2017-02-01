@@ -50,6 +50,8 @@ Create a simple 3 page Wordpress site.
 
 Brackets is a text editor. While most html can be written notepad or text edit. More modern text editors like Brackets give you advanced options and features that make your life a little easier.
 
+[Getting started](https://github.com/zevenrodriguez/CIM111/blob/master/week3/gettingStarted.html)
+
 ```
 
 <!DOCTYPE html>
@@ -70,6 +72,8 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 ```
 
 ###Important HTML Tags
+
+[Intro to Tags](https://github.com/zevenrodriguez/CIM111/blob/master/week3/basicTags.html)
 
 ####Head
 
