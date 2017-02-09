@@ -15,7 +15,7 @@ Prof. Zevensuy Rodriguez
 
 Office Location: Wolfson Building 2022
 
-Office Hours: [https://zeven.youcanbook.me/](https://zeven.youcanbook.me/)
+Office Hours: [https://calendly.com/zevenrodriguez/15min](https://calendly.com/zevenrodriguez/15min)
 
 Email: zevenrodriguez at miami dot edu
 
@@ -44,7 +44,7 @@ Email: zevenrodriguez at miami dot edu
 * Intro to HTML
 
 
-###Week 4 - HTML (Feb 7th - 9th)
+###[Week 4 - HTML (Feb 7th - 9th)](https://github.com/zevenrodriguez/CIM111/tree/master/week4)
 * Intro to Brackets
 * Setting up your work environment
 * Intro to HTML

@@ -32,6 +32,8 @@ For this assignment, you will be asked to create a personal resumé. If you alre
 * 2 italics or bold tags
 * Atleast one image
 
+Create a week4 folder, create a resume.html and place your code in that file. Make sure to have an images folder, in that week4 folder. Upload to your ftp site.
+
 ###HTML Tag Quiz - Thursday, February 16th
 
 
