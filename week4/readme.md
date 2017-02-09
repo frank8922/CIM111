@@ -41,10 +41,11 @@ Create a week4 folder, create a resume.html and place your code in that file. Ma
 
 [Intro to Tags](https://github.com/zevenrodriguez/CIM111/blob/master/week3/basicTags.html)
 
-
 [Multi Page site](https://github.com/zevenrodriguez/CIM111/tree/master/week4/aboutMe)
 
 [About Semantic Elements](http://vanseodesign.com/web-design/html5-semantic-elements/)
+
+Read section on Structural Semantic Elements and The Difference Between Sections and Articles
 
 ####SECTIONS VS ARTICLES
 
