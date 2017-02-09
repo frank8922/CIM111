@@ -12,12 +12,25 @@
 
 For this assignment, you will be asked to create a personal resumé. If you already have one, please start a new page from scratch. Your personal resumé should contain the following items:
 
-* Your name, centered, at the top of the page as an <h1> heading.
+* Your name, at the top of the page as an <h1> heading.
+* Use header tags for all section heads
 * A few paragraphs about yourself
 * Add a photograph of yourself
 * Add Work Experience
-* A list of hobbies or interest displayed as an HTML unordered list.
+* A list of hobbies or interest displayed as an HTML ordered or unordered list.
 * If you do not have a resume look at examples to format and have the right information.
+
+##Must haves
+* Proper html document setup
+* Use meta author and description tags
+* Add a comment
+* Use header, nav, main, and footer tags
+* address tag (You can use a fake address)
+* Create a table
+* ordered or unordered list
+* 2 links (a tags)
+* 2 italics or bold tags
+* Atleast one image
 
 ###HTML Tag Quiz - Thursday, February 16th
 
@@ -25,6 +38,19 @@ For this assignment, you will be asked to create a personal resumé. If you alre
 ###Important HTML Tags
 
 [Intro to Tags](https://github.com/zevenrodriguez/CIM111/blob/master/week3/basicTags.html)
+
+
+[About Semantic Elements](http://vanseodesign.com/web-design/html5-semantic-elements/)
+
+####SECTIONS VS ARTICLES
+
+Think of sections like chapters of a book. They all have something to do with each other. Articles are stories, blog posts, or piece that can stand on there own.
+
+####SPECIAL CHARACTERS
+
+[Symbols](http://www.w3schools.com/html/html_symbols.asp)
+
+[Entities](http://www.w3schools.com/html/html_entities.asp)
 
 ####Head
 
