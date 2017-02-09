@@ -12,7 +12,7 @@
 
 For this assignment, you will be asked to create a personal resumé. If you already have one, please start a new page from scratch. Your personal resumé should contain the following items:
 
-* Your name, at the top of the page as an <h1> heading.
+* Your name, at the top of the page as an h1 heading.
 * Use header tags for all section heads
 * A few paragraphs about yourself
 * Add a photograph of yourself
@@ -39,6 +39,8 @@ For this assignment, you will be asked to create a personal resumé. If you alre
 
 [Intro to Tags](https://github.com/zevenrodriguez/CIM111/blob/master/week3/basicTags.html)
 
+
+[Multi Page site](https://github.com/zevenrodriguez/CIM111/tree/master/week4/aboutMe)
 
 [About Semantic Elements](http://vanseodesign.com/web-design/html5-semantic-elements/)
 
