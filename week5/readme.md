@@ -2,7 +2,7 @@
 
  
 
-[CSS Slides]()
+[CSS Slides](https://github.com/zevenrodriguez/CIM111/blob/master/slides/CSS.pdf)
 
  
 
