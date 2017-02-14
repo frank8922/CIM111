@@ -56,7 +56,7 @@ Room 1054, Monday TBD
 * Intro to HTML
 
 
-###Week 5 - CSS (Feb 14th - 16th)
+###[Week 5 - CSS (Feb 14th - 16th)](https://github.com/zevenrodriguez/CIM111/tree/master/week5)
 * CSS 
 * Pseudo classes
 
