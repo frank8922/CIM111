@@ -11,7 +11,8 @@ CSS works by using selectors. Selectors are the ways you target elements on the 
 CSS can be written in 3 locations:
 
 * In the head
-```<head>
+```
+<head>
  <style>
   p{
    color: green;
