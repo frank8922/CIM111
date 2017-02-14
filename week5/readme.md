@@ -22,9 +22,9 @@ CSS can be written in 3 locations:
 <head>
 ```
 * External File
- * <link rel="stylesheet" type="text/css" href="mystyle.css">
+ * ```<link rel="stylesheet" type="text/css" href="mystyle.css">```
 * Inline Style
- * <h1 style="color:blue;margin-left:30px;">This is a heading.</h1>
+ * ```<h1 style="color:blue;margin-left:30px;">This is a heading.</h1>```
 
 ###Selectors
 * tags
