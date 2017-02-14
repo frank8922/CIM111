@@ -35,8 +35,7 @@ CSS can be written in 3 locations:
 * class
  * Used to style multiple elements on the page
 
-CSS TAGS EXAMPLES
+[CSS TAGS EXAMPLES](https://github.com/zevenrodriguez/CIM111/blob/master/week5/examples/cssIntro.html)
 
-BOX MODEL
+[BOX MODEL](https://github.com/zevenrodriguez/CIM111/blob/master/week5/examples/boxmodel.html)
 
-Box Model Example
