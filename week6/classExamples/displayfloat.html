@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Display and float</title>
+
+    <style>
+        #gallery {
+            width: 400px;
+            height: auto;
+            margin: 0 auto;
+        }
+
+        .box {
+            width: 100px;
+            height: 100px;
+            background-color: black;
+            margin-bottom: 10px;
+            margin-right: -3px;
+            display: inline-block;
+        }
+
+        #galleryFloat {
+            width: 400px;
+            height: auto;
+            margin: 0 auto;
+        }
+
+        .boxFloat {
+            width: 100px;
+            height: 100px;
+            background-color: blue;
+            float: left;
+        }
+
+        .clear{
+            float: none;
+            clear: both;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="gallery">
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
+
+    <div id="galleryFloat">
+
+        <div class="boxFloat"></div>
+        <div class="boxFloat"></div>
+        <div class="boxFloat"></div>
+        <div class="boxFloat"></div>
+        <div class="boxFloat"></div>
+        <div class="clear"></div>
+        <p>This is going to float</p>
+
+    </div>
+
+
+</body>
+
+
+</html>
