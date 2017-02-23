@@ -62,7 +62,7 @@ Room 1054, Monday TBD
 * CSS 
 * Pseudo classes
 
-###Week 6 - Media Formats (Feb 21st - 23rd)
+###Week 6 - Layout and Responsiveness (Feb 21st - 23rd)
 * Media formats
 
 ###Week 7 - Wrap Up (Feb 28th - Mar 2nd)
