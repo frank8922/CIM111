@@ -19,6 +19,27 @@ There are 2 main ways you can size an container in CSS. By setting a static pixe
 * %
 * em
 
+##EXTERNAL CSS
+
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+
+
+##LOADING AN EXTERNAL FONT
+
+[Google Fonts](https://fonts.google.com/)
+
+You can link your font
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+Or include this at the top of your with in your style tag or external CSS Document
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+In your css:
+
+font-family: 'Roboto', sans-serif;
+
  
  ##Homework
  
