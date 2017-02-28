@@ -1,4 +1,6 @@
 
+[Responsive Web Slides](https://github.com/zevenrodriguez/CIM111/blob/master/slides/ResponsiveWeb.pdf)
+
 CSS had built in function that let you decide what CSS to display. There are 2 ways to activate responsive styles. You can select styles to load within the style tag or you can use link tags to load CSS documents
 
 ```
