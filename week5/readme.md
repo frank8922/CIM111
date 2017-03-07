@@ -46,7 +46,7 @@ HTML/CSS Assignment (100 Points)
 Style your Resume using CSS styling elements
 * Set the color of the links and remove the underline.
 * Make the underline re-appear with the :hover effect.
-* Use a custon font.
+* Use a custom font.
 * Make sure you use an external stylesheet using the <link> tag.
 * Create and use 5 id
 * Create and use 2 class
