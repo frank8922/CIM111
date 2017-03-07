@@ -1,4 +1,4 @@
-##Responsive Site (200 Points) - March 28th
+##Responsive Site (200 Points) - March 23th
 
 For this assignment, you will be asked to create a personal site.  You must create a 3-page minimum responsive website about a special topic. Choose a hobby, cause, or any topic you might be interested in. Use media queries to create a dynamic multi-column layout.
 
