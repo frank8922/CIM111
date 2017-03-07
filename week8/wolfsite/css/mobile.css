@@ -2,7 +2,7 @@
 
 /*Import styles from desktop.css*/
 @import "desktop.css";
-#header{
+header{
 	width: 100%;
 	height: auto;
 	background-color: black;
@@ -11,7 +11,8 @@
 
 }
 
-#nav li{
+
+nav li{
 width:100%;
   color: white;
   font-size: 28px;
