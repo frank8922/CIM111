@@ -2,6 +2,7 @@
 
 /*Import styles from desktop.css*/
 @import "desktop.css";
+
 header{
 	width: 100%;
 	height: auto;

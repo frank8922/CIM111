@@ -65,16 +65,15 @@ Room 1054, Monday TBD
 ###[Week 6 - Layout and Responsiveness (Feb 21st - 23rd)](https://github.com/zevenrodriguez/CIM111/tree/master/week6)
 * Media formats
 
-###Week 7 - Wrap Up (Feb 28th - Mar 2nd)
+###[Week 7 - Responsiveness Continued (Feb 28th - Mar 2nd)](https://github.com/zevenrodriguez/CIM111/tree/master/week7)
 
-###Week 8 - jQuery (Mar 7th - 9th)
-* Intro jQuery
+###[Week 8 - Responsive Website & Workday (Mar 7th - 9th)](https://github.com/zevenrodriguez/CIM111/tree/master/week8)
 
-###Week 9 - Spring Break (Mar 14th - 16th )
+###[Week 9 - Spring Break (Mar 14th - 16th )](https://github.com/zevenrodriguez/CIM111/tree/master/week9)
 
-###Week 10 – jQuery Plugins (Mar 21st - 23rd)
+###Week 10 – Intro to javascript/jQuery (Mar 21st - 23rd)
 
-###Week 11 – Finishing up jQuery (Mar 28th - 30th)
+###Week 11 – jQuery Plugins (Mar 28th - 30th)
 
 ###Week 12 – Advanced Wordpress (Apr 4th - 6th)
 * Embedding video
