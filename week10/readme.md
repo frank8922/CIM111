@@ -6,7 +6,7 @@ Javascript is a programming language primarily  used to interact with elements o
 
 Javascript can be placed:
 
-* In your html file inside <script> tags in the
+* In your html file inside script tags in the
  * body
  * head
 * Can be placed externally
