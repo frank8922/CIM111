@@ -38,13 +38,10 @@ Use jQuery to show and hide steps or images. You can use tabs example to cycle t
 
 You need to have a minimum of :
 
-3 onclick, mouseover, mouseleave events
-
-1 show/hide events
-
-1 add html()
-
-1 add css()
+* 3 onclick, mouseover, mouseleave events
+* 1 show/hide events
+* 1 add html()
+* 1 add css()
 
 Name your html page howto.html and save in a week10 folder
 
