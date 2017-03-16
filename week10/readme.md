@@ -22,9 +22,11 @@ Download the compressed, production jQuery 3.1.1 and place in your js folder
 [Right click and save link as to download jQuery](https://code.jquery.com/jquery-3.1.1.min.js)
 
 ####Local Version
+
 <script src="js/jquery-3.1.1.min.js"></script>
 
 ####Remote Version
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 
@@ -37,8 +39,11 @@ Use jQuery to show and hide steps or images. You can use tabs example to cycle t
 You need to have a minimum of :
 
 3 onclick, mouseover, mouseleave events
+
 1 show/hide events
+
 1 add html()
+
 1 add css()
 
 Name your html page howto.html and save in a week10 folder
