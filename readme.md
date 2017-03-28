@@ -71,16 +71,18 @@ Room 1054, Monday TBD
 
 ###[Week 9 - Spring Break (Mar 14th - 16th )](https://github.com/zevenrodriguez/CIM111/tree/master/week9)
 
-###Week 10 – Intro to javascript/jQuery (Mar 21st - 23rd)
+###[Week 10 – Intro to javascript/jQuery (Mar 21st - 23rd)](https://github.com/zevenrodriguez/CIM111/tree/master/week10)
 
-###Week 11 – jQuery Plugins (Mar 28th - 30th)
+###[Week 11 – jQuery (Mar 28th - 30th)](https://github.com/zevenrodriguez/CIM111/tree/master/week11)
 
-###Week 12 – Advanced Wordpress (Apr 4th - 6th)
+###Week 12 – jQuery plugin (Apr 4th - 6th)
+
+
+###Week 13 – Advanced Wordpress, Emedding Media, Brainstorming and Design of Final Website (Apr 11th - 13th)
+
 * Embedding video
 * Understanding Plugins
 * Using HTML/CSS in Wordpress
-
-###Week 13 – Brainstorming and Design of Final Website (Apr 11th - 13th)
 	
 
 ###Week 14 – Marketing Workshop (Apr 18th – 20th)

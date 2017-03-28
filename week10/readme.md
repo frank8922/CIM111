@@ -30,7 +30,7 @@ Download the compressed, production jQuery 3.1.1 and place in your js folder
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 
-## jQuery Assignment - March 28th
+## jQuery Assignment
 
 Create a one how-to html page. Create a recipe page or how to make something, i.e. craft. Your page should have a minimum of 5 steps. Take images or video. Use organizational tags and css to organize and style your page. Include ingredients, directions, and Tips.
 
