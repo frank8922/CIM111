@@ -1,4 +1,4 @@
-#Continue javascript
+# Continue javascript
 
 ## jQuery Assignment - April 4th
 
@@ -13,6 +13,6 @@ You need to have a minimum of :
 * 1 add html()
 * 1 add css()
 
-Name your html page howto.html and save in a week10 folder
+Name your html page howto.html and save in a week11 folder
 
 Worth 100 points (25 points per event), 25 points for creativity/design
