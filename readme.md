@@ -75,10 +75,10 @@ Room 1054, Monday TBD
 
 ###[Week 11 – jQuery (Mar 28th - 30th)](https://github.com/zevenrodriguez/CIM111/tree/master/week11)
 
-###Week 12 – jQuery plugin (Apr 4th - 6th)
+### [Week 12 – jQuery plugin (Apr 4th - 6th)](https://github.com/zevenrodriguez/CIM111/tree/master/week12)
 
 
-###Week 13 – Advanced Wordpress, Emedding Media, Brainstorming and Design of Final Website (Apr 11th - 13th)
+### [Week 13 – Advanced Wordpress, Emedding Media, Brainstorming and Design of Final Website (Apr 11th - 13th)](https://github.com/zevenrodriguez/CIM111/tree/master/week13)
 
 * Embedding video
 * Understanding Plugins
