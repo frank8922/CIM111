@@ -98,4 +98,4 @@ Supplemental Materials:
 ### Week 15 - Final Project Lab (Apr 25th – 27th)
 
 
-# [Final Project](https://github.com/zevenrodriguez/CIM111/blob/master/final.md)
+# [Final Project 5/4/2017, Thursday by 1:30 pm](https://github.com/zevenrodriguez/CIM111/blob/master/final.md)
