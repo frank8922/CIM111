@@ -44,4 +44,4 @@ Come up with a marketing plan for your website. Explain your business rationale 
 
 Include screenshots of your campaigns as well as your write up in a blog post.
 
-## Remember to also put Google analytics on your site
+## Remember to also put Google analytics on your site (25 POINTS)
