@@ -23,7 +23,9 @@
 # Marketing
 
 [Twitter](https://ads.twitter.com/)
+
 [Facebook](https://www.facebook.com/business/)
+
 [Google Adwords](https://adwords.google.com)
 
 # ONLINE MARKETING AND SEO PLAN (50 POINTS)
