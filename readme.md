@@ -16,7 +16,10 @@
 #### Email: zevenrodriguez@miami.edu
 
 
-### [Week 1 - Introduction to Web]()
+## [Class Syllabus](https://github.com/zevenrodriguez/CIM111/blob/master/CIM111-General-Weblab.pdf)
+
+
+### [Week 1 - Introduction to Web](https://github.com/zevenrodriguez/CIM111/tree/master/week1)
 * Introduction to the Web
 * Setting up your Web Hosting
 * Domain Names
