@@ -24,9 +24,9 @@ Is an breakdown of locations and sections where  assets and text should be place
     * Objective Text
   * Work Experience - Section
     * Teaching Section
-     * UM
-     * NYU
-     * CUNY CityTech
+      * UM
+      * NYU
+      * CUNY CityTech
 * Woodworking
   * My Tools - Section
     * CNC Machine Image
