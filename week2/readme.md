@@ -16,19 +16,19 @@
 Is an breakdown of locations and sections where  assets and text should be placed.
 
 * Home page
- * Bio - Section
-  * Image of me working on something
-  * Bio Text
+  * Bio - Section
+   * Image of me working on something
+   * Bio Text
 * Resume
- * Objective - Section
-  * Objective Text
- * Work Experience - Section
-  * Teaching Section
-   * UM
-   * NYU
-   * CUNY CityTech
+  * Objective - Section
+   * Objective Text
+  * Work Experience - Section
+   * Teaching Section
+    * UM
+    * NYU
+    * CUNY CityTech
 * Woodworking
- * My Tools - Section
+  * My Tools - Section
    * CNC Machine Image
    * Mitre Saw Image
    * Table Saw Image
