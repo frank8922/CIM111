@@ -1,4 +1,4 @@
-[Principles of Design](https://github.com/zevenrodriguez/CIM111/blob/master/slides/Principles%20of%20Design.pdf)
+[Principles of Design](https://github.com/zevenrodriguez/CIM111/blob/master/slides/principlesofdesign.pdf)
 
 * WordPress Installation
 * Basic configuration
@@ -13,11 +13,12 @@
 
 ## Site Outline
 
+Is an breakdown of assets and text locations and sections.
+
 * Home page
  * Bio - Section
   * Image of me working on something
   * Bio Text
-
 * Resume
  * Objective - Section
   * Objective Text
@@ -29,13 +30,13 @@
 
 * Woodworking
  * My Tools - Section
-  * CNC Machine Image
-  * Mitre Saw Image
-  * Table Saw Image
+   * CNC Machine Image
+   * Mitre Saw Image
+   * Table Saw Image
  * My Work - Section
-  * Table Image
-  * Picture boxes
-  * Bench
+   * Table Image
+   * Picture boxes
+   * Bench
 
 
 ## Homework
