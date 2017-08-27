@@ -48,7 +48,6 @@ Create a simple Wordpress site.
  * Add Menu (10 Points)
 * Should Include a minimum of 5 Images (10 Points)
 * Presentation (10 Points)
-
 * 4 Pages Include: (40 Points)
  * Intro page
    * Include an image of yourself
