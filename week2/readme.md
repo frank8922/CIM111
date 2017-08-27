@@ -52,7 +52,6 @@ Create a simple Wordpress site.
     * Bio
  * Resume page
  * Interest page
-  * Should Include a minimum of 5 Images (10 Points)
- * Asset/Content Map Page
-  * Include a page illustrating what content is included in each page
+   * Should Include a minimum of 5 Images (10 Points)
+ * Site Outline
 * Presentation (10 Points)
