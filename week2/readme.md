@@ -13,7 +13,7 @@
 
 ## Site Outline
 
-Is an breakdown of assets and text locations and sections.
+Is an breakdown of locations and sections where  assets and text should be placed.
 
 * Home page
  * Bio - Section
@@ -27,7 +27,6 @@ Is an breakdown of assets and text locations and sections.
    * UM
    * NYU
    * CUNY CityTech
-
 * Woodworking
  * My Tools - Section
    * CNC Machine Image
