@@ -25,7 +25,7 @@
 * Domain Names
  * https://www.dreamhost.com/promo/edu/
 
-### [Week 2 - Introduction to Wordpress](https://github.com/zevenrodriguez/CIM540-640/tree/master/week2)
+### [Week 2 - Introduction to Wordpress](https://github.com/zevenrodriguez/CIM111/tree/master/week2)
 * Setup FTP
 * Basic Web Design
 * Getting Starting with Wordpress
