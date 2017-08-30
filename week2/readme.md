@@ -57,5 +57,4 @@ Create a simple Wordpress site.
  * Site Outline
 
 
-[Watch Intro to HTML Video](https://vimeo.com/230795009)
 
