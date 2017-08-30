@@ -55,3 +55,7 @@ Create a simple Wordpress site.
  * Resume page
  * Interest page
  * Site Outline
+
+
+[Watch Intro to HTML Video](https://vimeo.com/230795009)
+
