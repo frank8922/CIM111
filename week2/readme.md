@@ -40,7 +40,7 @@ Is an breakdown of locations and sections where  assets and text should be place
 
 ## Homework
 
-### First Website (100 Points) - Due MW Sept 6, TuTh Sept 7th
+### First Website (100 Points) - Due MW Sept 11, TuTh Sept 7th
 
 Create a simple Wordpress site. 
 * Install Wordpress (20 Points)
