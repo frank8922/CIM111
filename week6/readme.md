@@ -1,15 +1,13 @@
-###Finishing up Wordpress
-
-####Introduction to FTP
+#### Introduction to FTP
 FTP - File Transfer Protocol, is how you transfer files onto your server. Comes in 2 versions: FTP and SFTP which is secure.
 
-####To set or reset your ftp password
+#### To set or reset your ftp password
 
 In your dreamhost dashboard, go to Users > Manage Users
 
 [Cyberduck](https://cyberduck.io)
 
-####File structure
+#### File structure
 
 Important files are located in wp-content. The structure is broken down like:
 
@@ -20,35 +18,20 @@ Important files are located in wp-content. The structure is broken down like:
  * upgrade
  * uploads
  
- ####Backing up
+ #### Backing up
  
  The main folder you want to save is the uploads folder. But you can back up the wp-content just in case.
 
  In wordpress, you want to go to Tools > Export > Download Export File
 
-###First Website (100 Points) - Due Feb 2nd
 
-Create a simple 3 page Wordpress site. 
-* Install Wordpress (20 Points)
- * Install a theme (15 Points)
- * Add Menu (15 Points)
-* 3 Pages Include: (30 Points)
- * Intro page
-   * Include an image of yourself
-    * Bio
- * Resume page
- * Interest page
-  * Should Include a minimum of 5 Images (10 Points)
-* Presentation (10 Points)
-
-
-#Intro to HTML
+# Intro to HTML
 
 [Slides](https://github.com/zevenrodriguez/CIM111/blob/master/slides/HTML.pdf)
 
-###INTRO TO BRACKETS
+### INTRO TO BRACKETS
 
-####What is Brackets?
+#### What is Brackets?
 
 Brackets is a text editor. While most html can be written notepad or text edit. More modern text editors like Brackets give you advanced options and features that make your life a little easier.
 
@@ -73,11 +56,11 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 
 ```
 
-###Important HTML Tags
+### Important HTML Tags
 
 [Intro to Tags](https://github.com/zevenrodriguez/CIM111/blob/master/week3/basicTags.html)
 
-####Head
+#### Head
 
 [doctype](http://www.w3schools.com/tags/tag_doctype.asp) - Defines the document type
 
@@ -97,11 +80,11 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 
 [noscript](http://www.w3schools.com/tags/tag_noscript.asp) - Defines an alternate content for users that do not support client-side scripts
 
-####Comments
+#### Comments
 
 [```<!-- ... -->```](http://www.w3schools.com/tags/tag_comment.asp)  - Defines a comment
 
-####Sections
+#### Sections
 
 [body](http://www.w3schools.com/tags/tag_body.asp) - Defines the document's body
 
@@ -123,7 +106,7 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 
 [br](http://www.w3schools.com/tags/tag_br.asp) - Inserts a single line break
 
-####Grouping
+#### Grouping
 
 [p](http://www.w3schools.com/tags/tag_p.asp) - Defines a paragraph
 
@@ -141,7 +124,7 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 
 [div](http://www.w3schools.com/tags/tag_div.asp) - Defines a section in a document
 
-####Tables
+#### Tables
 
 [table](http://www.w3schools.com/tags/tag_table.asp) - Defines a table
 
@@ -151,7 +134,7 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 
 [td](http://www.w3schools.com/tags/tag_td.asp) - Defines a cell in a table
 
-####Forms
+#### Forms
 
 [form](http://www.w3schools.com/tags/tag_form.asp) - Defines an HTML form for user input
 
@@ -185,7 +168,7 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 
 [canvas](http://www.w3schools.com/tags/tag_canvas.asp) - Used to draw graphics, on the fly, via scripting (usually JavaScript)
 
-####Text-level
+#### Text-level
 
 [a](http://www.w3schools.com/tags/tag_a.asp) - Defines a hyperlink
 
@@ -210,34 +193,3 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 [cite](http://www.w3schools.com/tags/tag_cite.asp) -  tag defines the title of a work (e.g. a book, a song, a movie, a TV show, a painting, a sculpture, etc.)
 
 *From w3schools*
-
-
-##Uploading to your server
-
-* Open and login to your ftp server
-* Open the folder with your url on it
-* Right click and create a new folder in your main directory
- * Name the folder hw
- * All of your assignements should be placed in this folder
-
-
-###Assignment:
-
-Go over HTML5 Doctor/ w3schools html types above
-
-* Create an html page with a basic bio
- * head
- * Add a title
- * body
- * Use a header tag
- * paragraph tag
-* Save the file as index.html
-* Open your hw folder
-* Create a new folder called week3
- * For every assignment make a directory for that week
-* Open your week3 folder
-* drag your html file into the folder
-* visit http://yoururl.com/hw/week3/index.html
-
-
-
