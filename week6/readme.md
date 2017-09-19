@@ -35,7 +35,7 @@ Important files are located in wp-content. The structure is broken down like:
 
 Brackets is a text editor. While most html can be written notepad or text edit. More modern text editors like Brackets give you advanced options and features that make your life a little easier.
 
-[Getting started](https://github.com/zevenrodriguez/CIM111/blob/master/week3/gettingStarted.html)
+[Download here http://brackets.io/](http://brackets.io/)
 
 ```
 
