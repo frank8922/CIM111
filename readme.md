@@ -30,40 +30,43 @@
 * Basic Web Design
 * Getting Starting with Wordpress
 
-### [Week 3 - Finishing up Wordpress]()
+### [Week 3 - Finishing up Wordpress](https://github.com/zevenrodriguez/CIM111/tree/master/week3)
 * Installing Themes
 
-### [Week 4 - HTML]()
-* Intro to Brackets
+### [Week 4 - Hurricane Irma]()
+
+
+### [Week 5 – Hurricane Irma]()
+
+### [Week 6 - HTML]()
+* Intro to Bracket
 * Setting up your work environment
 * Intro to HTML
 
-### [Week 5 – HTML cont.]()
+### [Week 7 – HTML cont.]()
 
-### [Week 6 – CSS]()
+### [Week 8 – CSS]()
 * CSS
 * Pseudo classes
 
-### [Week 7 - Media Formats]()
+### [Week 9 - Media Formats]()
 * Media formats
 
-### [Week 8 - Wrap Up, Fall Recess]()
+### [Week 10 - Wrap Up]()
 
-### [Week 9 – jQuery]()
+### [Week 11 – jQuery]()
 * Intro jQuery
 
-### [Week 10 - jQuery Plugins]()
+### [Week 12 - jQuery Plugins]()
 
-### [Week 11 – Finishing up jQuery]()
+### [Week 13 – Finishing up jQuery]()
 
-### [Week 12 – Advanced Wordpress]()
+### [Week 14 – Thanksgiving]()
+
+### [Week 15 – Advanced Wordpress]()
 * Embedding video
 * Understanding Plugins
 * Using HTML/CSS in Wordpress
-
-### [Week 13 – Brainstorming and Design of Final Website]()
-
-### [Week 14 – Thanksgiving]()
 
 ### [Week 15 – Marketing Workshop]()
 * Twitter
