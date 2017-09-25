@@ -1,11 +1,8 @@
-#### Introduction to FTP
-FTP - File Transfer Protocol, is how you transfer files onto your server. Comes in 2 versions: FTP and SFTP which is secure.
+ #### Backing up
 
-#### To set or reset your ftp password
+ The main folder you want to save is the uploads folder. But you can back up the wp-content just in case.
 
-In your dreamhost dashboard, go to Users > Manage Users
-
-[Cyberduck](https://cyberduck.io)
+ In wordpress, you want to go to Tools > Export > Download Export File
 
 #### File structure
 
@@ -17,12 +14,16 @@ Important files are located in wp-content. The structure is broken down like:
  * themes
  * upgrade
  * uploads
- 
- ####Backing up
- 
- The main folder you want to save is the uploads folder. But you can back up the wp-content just in case.
 
- In wordpress, you want to go to Tools > Export > Download Export File
+
+#### Introduction to FTP
+FTP - File Transfer Protocol, is how you transfer files onto your server. Comes in 2 versions: FTP and SFTP which is secure.
+
+#### To set or reset your ftp password
+
+In your dreamhost dashboard, go to Users > Manage Users
+
+[Cyberduck](https://cyberduck.io)
 
 
 # Intro to HTML
@@ -152,7 +153,7 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 
 [textarea](http://www.w3schools.com/tags/tag_textarea.asp) - Defines a multiline input control (text area)
 
-#### Embedded
+####Embedded
 
 [img](http://www.w3schools.com/tags/tag_img.asp) - Defines an image
 
@@ -193,17 +194,6 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 [cite](http://www.w3schools.com/tags/tag_cite.asp) -  tag defines the title of a work (e.g. a book, a song, a movie, a TV show, a painting, a sculpture, etc.)
 
 *From w3schools*
-
-
-## Uploading to your server
-
-* Open and login to your ftp server
-* Open the folder with your url on it
-* Right click and create a new folder in your main directory
- * Name the folder hw
- * All of your assignements should be placed in this folder
-
-
 
 # Homework
 
