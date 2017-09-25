@@ -198,5 +198,7 @@ Brackets is a text editor. While most html can be written notepad or text edit. 
 # Homework
 
 * Wordpress project due Oct 2nd & Oct 3rd
+* [Watch Intro to HTML Video](https://vimeo.com/230795009)
+* Create hw site
 
 

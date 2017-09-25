@@ -38,7 +38,7 @@
 
 ### [Week 5 – Hurricane Irma]()
 
-### [Week 6 - HTML]()
+### [Week 6 - HTML](https://github.com/zevenrodriguez/CIM111/tree/master/week6)
 * Intro to Bracket
 * Setting up your work environment
 * Intro to HTML
