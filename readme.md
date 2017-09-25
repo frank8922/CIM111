@@ -16,7 +16,7 @@
 #### Email: zevenrodriguez@miami.edu
 
 
-## [Class Syllabus](https://github.com/zevenrodriguez/CIM111/blob/master/CIM111-General-Weblab.pdf)
+## [Class Syllabus](https://github.com/zevenrodriguez/CIM111/blob/master/CIM111-General-Weblab-PS.pdf)
 
 
 ### [Week 1 - Introduction to Web](https://github.com/zevenrodriguez/CIM111/tree/master/week1)
