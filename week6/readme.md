@@ -23,7 +23,7 @@ FTP - File Transfer Protocol, is how you transfer files onto your server. Comes 
 
 In your dreamhost dashboard, go to Users > Manage Users
 
-[Cyberduck](https://cyberduck.io)
+##### [Download Cyberduck](https://cyberduck.io)
 
 
 # Intro to HTML
