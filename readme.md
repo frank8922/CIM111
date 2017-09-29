@@ -43,7 +43,7 @@
 * Setting up your work environment
 * Intro to HTML
 
-### [Week 7 – HTML cont.]()
+### [Week 7 – HTML cont.](https://github.com/zevenrodriguez/CIM111/tree/master/week7)
 
 ### [Week 8 – CSS]()
 * CSS
