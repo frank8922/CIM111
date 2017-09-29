@@ -175,17 +175,19 @@ For this assignment, you will be asked to create a personal resumé. If you alre
 * A list of hobbies or interest displayed as an HTML ordered or unordered list.
 * If you do not have a resume look at examples to format and have the right information.
 
-##Must haves
-* Proper html document setup
-* Use meta author and description tags
-* Add a comment
-* Use header, nav, main, and footer tags
-* address tag (You can use a fake address)
-* Create a table
-* ordered or unordered list
-* 2 links (a tags)
-* 2 italics or bold tags
-* Atleast one image
+## Must haves
+* Proper html document setup (10 Points)
+* Use meta author and description tags (10 Points)
+* Using heading tags for your different sections (10 Points)
+* Add a comment (5 Points)
+* Use header, nav, main, and footer tags (10 Points)
+* address tag (You can use a fake or school address) (5 Points)
+* Create a table (10 Points)
+* ordered or unordered list (10 Points)
+* 2 links (a tags) (10 Points)
+* 2 italics or bold tags (10 Points)
+* Atleast one image (5 Points)
+* Resume Styling
 
 Create a resume folder. Place an index.html file in the folder. Then place your code in that file. Create an images folder in your resume folder. When you are finished, place your resume folder in your ftp hw folder. Please link your folder on the index.html file in your hw folder.
 
