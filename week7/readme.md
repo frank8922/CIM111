@@ -1,63 +1,26 @@
-#HTML
+# HTML
 
-###Examples
+### Examples
 
-[More Tags](https://github.com/zevenrodriguez/CIM111/tree/master/week4/moreTags)
+[More tags](https://github.com/zevenrodriguez/CIM111/tree/master/week7/moreTags)
 
-[About Me site](https://github.com/zevenrodriguez/CIM111/tree/master/week4/aboutMe)
+[Multi Page site](https://github.com/zevenrodriguez/CIM111/tree/master/week7/aboutMe)
 
-###Homework
+#### SECTIONS VS ARTICLES
 
-####HTML/Resume Assignment (100 Points) Tuesday, February 14th
-
-For this assignment, you will be asked to create a personal resumé. If you already have one, please start a new page from scratch. Your personal resumé should contain the following items:
-
-* Your name, at the top of the page as an h1 heading.
-* Use header tags for all section heads
-* A few paragraphs about yourself
-* Add a photograph of yourself
-* Add Work Experience
-* A list of hobbies or interest displayed as an HTML ordered or unordered list.
-* If you do not have a resume look at examples to format and have the right information.
-
-##Must haves
-* Proper html document setup
-* Use meta author and description tags
-* Add a comment
-* Use header, nav, main, and footer tags
-* address tag (You can use a fake address)
-* Create a table
-* ordered or unordered list
-* 2 links (a tags)
-* 2 italics or bold tags
-* Atleast one image
-
-Create a week4 folder, create a resume.html and place your code in that file. Make sure to have an images folder, in that week4 folder. Upload to your ftp site.
-
-###HTML Tag Quiz - Thursday, February 16th
-
-
-###Important HTML Tags
-
-[Intro to Tags](https://github.com/zevenrodriguez/CIM111/blob/master/week3/basicTags.html)
-
-[Multi Page site](https://github.com/zevenrodriguez/CIM111/tree/master/week4/aboutMe)
+Think of sections like chapters of a book. They all have something to do with each other. Articles are stories, blog posts, or piece that can stand on there own.
 
 [About Semantic Elements](http://vanseodesign.com/web-design/html5-semantic-elements/)
 
 Read section on Structural Semantic Elements and The Difference Between Sections and Articles
 
-####SECTIONS VS ARTICLES
-
-Think of sections like chapters of a book. They all have something to do with each other. Articles are stories, blog posts, or piece that can stand on there own.
-
-####SPECIAL CHARACTERS
+#### SPECIAL CHARACTERS
 
 [Symbols](http://www.w3schools.com/html/html_symbols.asp)
 
 [Entities](http://www.w3schools.com/html/html_entities.asp)
 
-####Head
+#### Head
 
 [doctype](http://www.w3schools.com/tags/tag_doctype.asp) - Defines the document type
 
@@ -77,11 +40,11 @@ Think of sections like chapters of a book. They all have something to do with ea
 
 [noscript](http://www.w3schools.com/tags/tag_noscript.asp) - Defines an alternate content for users that do not support client-side scripts
 
-####Comments
+#### Comments
 
 [```<!-- ... -->```](http://www.w3schools.com/tags/tag_comment.asp)  - Defines a comment
 
-####Sections
+#### Sections
 
 [body](http://www.w3schools.com/tags/tag_body.asp) - Defines the document's body
 
@@ -103,7 +66,7 @@ Think of sections like chapters of a book. They all have something to do with ea
 
 [br](http://www.w3schools.com/tags/tag_br.asp) - Inserts a single line break
 
-####Grouping
+#### Grouping
 
 [p](http://www.w3schools.com/tags/tag_p.asp) - Defines a paragraph
 
@@ -121,7 +84,7 @@ Think of sections like chapters of a book. They all have something to do with ea
 
 [div](http://www.w3schools.com/tags/tag_div.asp) - Defines a section in a document
 
-####Tables
+#### Tables
 
 [table](http://www.w3schools.com/tags/tag_table.asp) - Defines a table
 
@@ -131,7 +94,7 @@ Think of sections like chapters of a book. They all have something to do with ea
 
 [td](http://www.w3schools.com/tags/tag_td.asp) - Defines a cell in a table
 
-####Forms
+#### Forms
 
 [form](http://www.w3schools.com/tags/tag_form.asp) - Defines an HTML form for user input
 
@@ -149,7 +112,7 @@ Think of sections like chapters of a book. They all have something to do with ea
 
 [textarea](http://www.w3schools.com/tags/tag_textarea.asp) - Defines a multiline input control (text area)
 
-####Embedded
+#### Embedded
 
 [img](http://www.w3schools.com/tags/tag_img.asp) - Defines an image
 
@@ -165,7 +128,7 @@ Think of sections like chapters of a book. They all have something to do with ea
 
 [canvas](http://www.w3schools.com/tags/tag_canvas.asp) - Used to draw graphics, on the fly, via scripting (usually JavaScript)
 
-####Text-level
+#### Text-level
 
 [a](http://www.w3schools.com/tags/tag_a.asp) - Defines a hyperlink
 
@@ -188,4 +151,55 @@ Think of sections like chapters of a book. They all have something to do with ea
 [q](http://www.w3schools.com/tags/tag_q.asp) - Defines a short quotation
 
 [cite](http://www.w3schools.com/tags/tag_cite.asp) -  tag defines the title of a work (e.g. a book, a song, a movie, a TV show, a painting, a sculpture, etc.)
+
+
+
+### Homework
+
+#### HTML/Resume Assignment (100 Points) Oct 9-10th
+
+Create an index.html file in your hw folder. All assignments must be linked to this page. 
+
+In your index.html page include:
+
+* Your name
+* List of links to assignments
+
+For this assignment, you will be asked to create a personal resumé. If you already have one, please start a new page from scratch. Your personal resumé should contain the following items:
+
+* Your name, at the top of the page as an h1 heading.
+* Use header tags for all section heads
+* A paragraph about yourself
+* Add a photograph of yourself
+* Add Work Experience
+* A list of hobbies or interest displayed as an HTML ordered or unordered list.
+* If you do not have a resume look at examples to format and have the right information.
+
+##Must haves
+* Proper html document setup
+* Use meta author and description tags
+* Add a comment
+* Use header, nav, main, and footer tags
+* address tag (You can use a fake address)
+* Create a table
+* ordered or unordered list
+* 2 links (a tags)
+* 2 italics or bold tags
+* Atleast one image
+
+Create a resume folder. Place an index.html file in the folder. Then place your code in that file. Create an images folder in your resume folder. When you are finished, place your resume folder in your ftp hw folder. Please link your folder on the index.html file in your hw folder.
+
+### HTML Tag Quiz - Oct 11-12th
+
+### Important HTML Tags
+
+[Intro to Tags](https://github.com/zevenrodriguez/CIM111/blob/master/week6/examples/basicTags.html)
+
+[More tags](https://github.com/zevenrodriguez/CIM111/tree/master/week7/moreTags)
+
+[Multi Page site](https://github.com/zevenrodriguez/CIM111/tree/master/week7/aboutMe)
+
+[About Semantic Elements](http://vanseodesign.com/web-design/html5-semantic-elements/)
+
+Read section on Structural Semantic Elements and The Difference Between Sections and Articles
 
