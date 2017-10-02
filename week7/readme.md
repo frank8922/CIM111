@@ -187,7 +187,7 @@ For this assignment, you will be asked to create a personal resumé. If you alre
 * 2 links (a tags) (10 Points)
 * 2 italics or bold tags (10 Points)
 * Atleast one image (5 Points)
-* Resume Styling
+* Resume Styling (5 Points)
 
 Create a resume folder. Place an index.html file in the folder. Then place your code in that file. Create an images folder in your resume folder. When you are finished, place your resume folder in your ftp hw folder. Please link your folder on the index.html file in your hw folder.
 

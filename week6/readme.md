@@ -36,7 +36,8 @@ In your dreamhost dashboard, go to Users > Manage Users
 
 Brackets is a text editor. While most html can be written notepad or text edit. More modern text editors like Brackets give you advanced options and features that make your life a little easier.
 
-##### [Download Brackets](http://brackets.io/)
+<<<<<<< HEAD
+[Download here http://brackets.io/](http://brackets.io/)
 
 
 ```
