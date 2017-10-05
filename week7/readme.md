@@ -180,7 +180,6 @@ For this assignment, you will be asked to create a personal resumé. If you alre
 * Use meta author and description tags (10 Points)
 * Using heading tags for your different sections (10 Points)
 * Add a comment (5 Points)
-* Use header, nav, main, and footer tags (10 Points)
 * address tag (You can use a fake or school address) (5 Points)
 * Create a table (10 Points)
 * ordered or unordered list (10 Points)

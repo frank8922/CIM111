@@ -27,7 +27,7 @@ CSS can be written in 3 locations:
 * Inline Style
  * ```<h1 style="color:blue;margin-left:30px;">This is a heading.</h1>```
 
-###Selectors
+### Selectors
 * tags
  * Most html tags
 * id
@@ -39,7 +39,7 @@ CSS can be written in 3 locations:
 
 [BOX MODEL](https://github.com/zevenrodriguez/CIM111/blob/master/week5/examples/boxmodel.html)
 
-##Homework
+## Homework
 
 HTML/CSS Assignment (100 Points)
 
