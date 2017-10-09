@@ -45,7 +45,7 @@
 
 ### [Week 7 – HTML cont.](https://github.com/zevenrodriguez/CIM111/tree/master/week7)
 
-### [Week 8 – CSS]()
+### [Week 8 – CSS](https://github.com/zevenrodriguez/CIM111/tree/master/week8)
 * CSS
 * Pseudo classes
 
