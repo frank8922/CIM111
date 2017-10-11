@@ -4,7 +4,7 @@
 
 [CSS Slides](https://github.com/zevenrodriguez/CIM111/blob/master/slides/CSS.pdf)
 
- 
+ [CSS Reference](https://www.w3schools.com/cssref/default.asp)
 
 CSS works by using selectors. Selectors are the ways you target elements on the page.
 
@@ -35,13 +35,27 @@ CSS can be written in 3 locations:
 * class
  * Used to style multiple elements on the page
 
-[CSS TAGS EXAMPLES](https://github.com/zevenrodriguez/CIM111/blob/master/week5/examples/cssIntro.html)
+[CSS TAGS EXAMPLES](https://github.com/zevenrodriguez/CIM111/blob/master/week8/examples/cssIntro.html)
 
-[BOX MODEL](https://github.com/zevenrodriguez/CIM111/blob/master/week5/examples/boxmodel.html)
+## LOADING AN EXTERNAL FONT
+
+[Google Fonts](https://fonts.google.com/)
+
+You can link your font
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+Or include this at the top of your with in your style tag or external CSS Document
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+In your css:
+
+font-family: 'Roboto', sans-serif;
 
 ## Homework
 
-HTML/CSS Assignment (100 Points)
+HTML/CSS Assignment (100 Points) Due OCT 18-19th
 
 Style your Resume using CSS styling elements
 * Set the color of the links and remove the underline.
