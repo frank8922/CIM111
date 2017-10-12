@@ -1,29 +1,64 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Intro to CSS</title>
-        <style>
 
-            body{
-                background-color: fuchsia;
-                font-family: sans-serif;
-            }
+<head>
+    <title>Intro to CSS</title>
+    <style>
+        body {
+            background-color: fuchsia;
+            font-family: sans-serif;
+        }
 
-            h1{
-               color: cornflowerblue;
-                color: #333333;
-                color: rgb(0,255,0);
-            }
+        h1 {
+            color: cornflowerblue;
+            color: #333333;
+            color: rgb(0, 255, 0);
+        }
 
-        </style>
-    </head>
+        p {
+            color: #ffffff;
+            font-size: 20px;
+        }
 
-    <body>
-        <h1>Let's change this color</h1>
+        a {
+            text-decoration: none;
+            font-size: 30px;
+            font-weight: 800;
+            color: beige;
+        }
 
-        <p>This is important information!!!!!!</p>
+        a:hover {
+            color: darkcyan;
+            font-weight: 100;
+            background-color: antiquewhite;
+        }
 
-        <h1>This shares the same style</h1>
-    </body>
+        #linkChange{
+            color: darkseagreen;
+            font-size: 20px;
+        }
+
+        .letterChange{
+            font-size: 50px;
+        }
+
+
+    </style>
+</head>
+
+<body>
+    <h1><div class="letterChange">L</div>et's change this color</h1>
+
+    <p>This is important information!!!!!!</p>
+
+    <h1><div class="letterChange">T</div>his shares the same style</h1>
+
+    <br>
+
+    <a href="http://www.google.com"><span class="letterChange">C</span>lick here for google.com</a>
+
+    <p><span class="letterChange">I</span> am going to write some stuff that if very important. Click on this <a href="http://www.google.com" id="linkChange">info</a> to learn important things!!</p>
+
+</body>
 
 </html>
