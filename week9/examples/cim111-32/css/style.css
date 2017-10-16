@@ -1,0 +1,53 @@
+ @import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+
+            body {
+                background-color: blue;
+                font-family: sans-serif;
+                color: darkblue;
+            }
+
+
+            h1{
+                font-family: 'Fascinate Inline', serif;
+                color: cadetblue;
+                color: #333333;
+                color:rgb(255,0,0)
+            }
+
+            p{
+                color: #0000ff;
+                font-size: 20px;
+
+            }
+
+            a{
+                text-decoration: none;
+                font-size: 30px;
+                font-weight: 800;
+                color: chartreuse;
+            }
+
+            a:hover{
+                color:darkgreen;
+                font-weight: 100;
+                background-color: antiquewhite;
+            }
+
+
+            #linkChange{
+                color: red;
+                font-size: 20px;
+            }
+
+            #letterChange{
+                font-size: 50px;
+            }
+
+            .makeBolder{
+                font-weight: 800;
+            }
+
+            ul li{
+                list-style: none;
+            }
+
