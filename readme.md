@@ -18,6 +18,8 @@
 
 ## [Class Syllabus](https://github.com/zevenrodriguez/CIM111/blob/master/CIM111-General-Weblab-PS.pdf)
 
+## [Homework](https://github.com/zevenrodriguez/CIM111/blob/master/hw.md)
+
 
 ### [Week 1 - Introduction to Web](https://github.com/zevenrodriguez/CIM111/tree/master/week1)
 * Introduction to the Web
