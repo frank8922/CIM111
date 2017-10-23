@@ -65,3 +65,9 @@ Style your Resume using CSS styling elements
 * Create and use 2 class - 20 points
  * Must use each class more the once
 * Make sure the webpage and css works. - 5 points
+
+# Mondrian Painting - Due OCT 30-31
+
+Create your own mondrian painting. Use div tags to create a series of boxes. Use floats or display: inline-block;
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg/220px-Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg)
