@@ -1,0 +1,37 @@
+/*Tablet Version*/
+
+/*Import styles from desktop.css*/
+@import "desktop.css";
+
+#col1{
+width: 100%;
+padding:10px;
+}
+
+#col2{
+float: left;
+width: 45%;
+padding:10px;
+}
+
+#col3{
+float: left;
+width: 45%;
+padding:10px;
+}
+
+#image {
+    margin-bottom: 20px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#mainImage {
+    width: 100%;
+    height: auto;
+}
+
+.galleryImage{
+    width: 90%;
+    height: auto;
+}
