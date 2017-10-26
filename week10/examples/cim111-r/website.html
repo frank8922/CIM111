@@ -1,46 +1,169 @@
 <!DOCTYPE html>
 
 <html>
-    
-    <head>
-        <title>Our pretty website</title>
-        <style>
+
+<head>
+    <title>Our pretty website</title>
+    <style>
+        header {
+            width: 960px;
+            height: 110px;
+            background-color: coral;
+        }
+
+        nav {
+            width: 960px;
+            height: 50px;
+            background-color: bisque;
+        }
+
+        nav ul {
+            margin-left: 300px;
+        }
+
+        nav ul li {
+            list-style: none;
+            display: inline-block;
+            margin-right: 50px;
+            margin-top: 10px;
+        }
         
-            header{
-                width: 960px;
-                height: 300px;
-                background-color: coral;
-            }
-            
-            main{
-                width: 960px;
-                height: 600px;
-                background-color: burlywood;
-            }
-            
-            footer{
-                width: 960px;
-                height: 100px;
-                background-color: coral;
-            }
+        nav ul li a {
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+        }
         
-        </style>
-    
-    </head>
-    
-    <body>
-    
-        <header>
-            <h1>Zevensuy Rodriguez</h1>
-            <nav>
-                
-            </nav>
-        </header>
+        nav ul li a:hover {
+            color: azure;
+        }
         
-        <main></main>
+        main {
+            width: 960px;
+            height: 700px;
+            background-color: burlywood;
+        }
         
-        <footer></footer>
+        footer {
+            width: 960px;
+            height: 100px;
+            background-color: coral;
+        }
+
+        #row1{
+            width: 960px;
+            height: 100px;
+            background-color: darkblue;
+        }
+
+        #row2{
+            width: 960px;
+            height: 400px;
+            background-color: darkgoldenrod;
+        }
+
+        #row2col1{
+            width: 700px;
+            height: 400px;
+            background-color: forestgreen;
+            float: left;
+        }
+
+        #row2col2{
+            width: 260px;
+            height: 400px;
+            background-color: purple;
+            float: left;
+
+        }
+
+        .row2box{
+            width: 700px;
+            height: 200px;
+            background-color: aquamarine;
+            border-style: solid;
+            border-width: 1px;
+        }
+
+        #row3{
+            width: 960px;
+            height: 200px;
+            background-color: aqua;
+        }
+
+         #row3col1 {
+            width: 400px;
+            height: 200px;
+            background-color: white;
+            float: left;
+        }
+
+        #row3col2 {
+            width: 400px;
+            height: 200px;
+            background-color: coral;
+            float: left;
+
+        }
+
+        #row3col3 {
+
+            width: 160px;
+            height: 200px;
+            background-color: white;
+            float: left;
+        }
+
+
+        .clear{
+            float: none;
+            clear: both;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <header>
+        <h1>Zevensuy Rodriguez</h1>
+        <nav>
+            <ul>
+
+                <li><a href="">Home</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Blog</a></li>
+
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <div id="row1"></div>
+        <div id="row2">
+            <div id="row2col1">
+                <div class="row2box"></div>
+                <div class="row2box"></div>
+
+            </div>
+            <div id="row2col2"></div>
+            <div class="clear"></div>
+
+        </div>
+         <div id="row3">
+            <div id="row3col1"></div>
+            <div id="row3col2"></div>
+            <div id="row3col3"></div>
+            <div class="clear"></div>
+
+        </div>
+
     
-    </body>
-    
+    </main>
+
+    <footer></footer>
+
+</body>
+
 </html>
