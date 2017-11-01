@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+    <title>My Static Site</title>
+
+    <style>
+        #mainContainer {
+            width: 960px;
+            height: 1000px;
+            margin: 0 auto;
+            background-color: cadetblue;
+        }
+
+        #navContainer {
+            width: 300px;
+            height: 50px;
+            background-color: aqua;
+            margin: 0 auto;
+        }
+
+        #navContainer nav li {
+            list-style: none;
+            display: inline-block;
+            margin-right: 30px;
+            margin-top: 15px;
+        }
+
+        #navContainer nav li a {
+            text-decoration: none;
+            color: orange;
+        }
+
+        #navContainer nav li a:hover {
+            color: green;
+        }
+
+        main {
+            background-color: azure;
+        }
+
+        #introImage {
+            background-color: forestgreen;
+            width: 960px;
+            height: 300px;
+        }
+
+        .col {
+            width: 450px;
+            height: 200px;
+            background-color: fuchsia;
+            float: left;
+            margin: 15px;
+        }
+
+
+        .clear{
+            float: none;
+            clear: both;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="mainContainer">
+
+        <header>
+            <div id="navContainer">
+                <nav>
+                    <ul>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Resume</a></li>
+                        <li><a href="">Contact</a></li>
+
+                    </ul>
+                </nav>
+            </div>
+
+        </header>
+
+
+        <main>
+
+
+            <div id="introImage"></div>
+
+            <div id="infoSection">
+
+                <div class="col"></div>
+                <div class="col"></div>
+
+            </div>
+
+            <div class="clear"></div>
+
+
+            <h1>Stuff is happening</h1>
+
+        </main>
+
+        <footer>
+
+            <p>Copyright Zeven Rodriguez</p>
+
+
+        </footer>
+
+    </div>
+</body>
+
+</html>

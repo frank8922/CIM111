@@ -1,23 +1,3 @@
-## STATIC VS RESPONSIVE SIZING
-
-There are 2 main ways you can size an container in CSS. By setting a static pixel size your container will by that size no matter how your window is resized. Responsive sizing is using percentage or em.
-
-### Static
-* px
-
-### Responsive
-* %
-* em
-
-## EXTERNAL CSS
-
-<link rel="stylesheet" type="text/css" href="mystyle.css">
-
-
-## Grid
-
-http://learncssgrid.com/
-
 
 [Responsive Web Slides](https://github.com/zevenrodriguez/CIM111/blob/master/slides/ResponsiveWeb.pdf)
 
@@ -42,17 +22,17 @@ CSS had built in function that let you decide what CSS to display. There are 2 w
       @media only screen and (min-width: 480px) {
         body {background-color: orange;}
       }
-
+ 
       @media only screen and (max-width: 400px) {
         body {background-color: green;}
       }
-
+ 
     </style>
-
+ 
   </head>
   <body>
     <h1>This is a header 1 tag</h1>
-
+ 
   </body>
 </html>
 
@@ -67,44 +47,44 @@ Here was are using the media variable in the link tag allowing you to load diffe
 ```
 
 <!DOCTYPE html>
-
+ 
 <html>
-
-
+ 
+ 
 <head>
 <title>Basic responsive site</title>
-
+ 
 <!-- Media query for narrow browser width -->
 <link rel="stylesheet" media="only screen and (max-width: 480px)" href="css/mobile.css">
-
+ 
 <!-- Media query for medium browser width -->
 <link rel="stylesheet" media="only screen and (min-width: 481px) and (max-width: 960px)" href="css/tablet.css">
-
+ 
 <!-- Media query for full browser width -->
 <link rel="stylesheet" media="only screen and (min-width: 961px)" href="css/desktop.css">
-
+ 
 <!-- Prevent smartphones from scaling pages down -->
 <meta name="viewport" content="initial-scale=1">
-
+ 
 </head>
-
-
+ 
+ 
 <body>
 <div id="container">
-
+ 
     <div id="col1"></div>
     <div id="col2"></div>
     <div id="col3"></div>
-
+ 
     <div class="clear"></div>
-
+ 
 </div>
-
-
+ 
+ 
 </body>
-
-
-
+ 
+ 
+ 
 </html>
 
 ```
@@ -113,3 +93,4 @@ Here was are using the media variable in the link tag allowing you to load diffe
 ###IMPORT FROM ANOTHER CSS DOCUMENT
 
 @import "desktop.css";
+

@@ -1,0 +1,13 @@
+@import "tablet.css";
+
+#sidebar{
+    background-color: darkgray;
+    width: 100%;
+    height: 150px;
+}
+
+#mainContainer{
+    background-color: red;
+    width: 100%;
+    height: 1200px;
+}
