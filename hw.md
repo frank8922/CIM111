@@ -73,7 +73,7 @@ Create your own mondrian painting. Use div tags to create a series of boxes. Use
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg/220px-Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg)
 
 
-## Responsive Site (200 Points) - March 23th
+## Responsive Site (200 Points) - Nov 15-16th
 
 For this assignment, you will be asked to create a personal site.  You must create a 3-page minimum responsive website about a special topic. Choose a hobby, cause, or any topic you might be interested in. Use media queries to create a dynamic multi-column layout.
 

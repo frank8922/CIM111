@@ -1,0 +1,52 @@
+@import "desktop.css";
+
+header {
+    width: 100%;
+    height: auto;
+    background-color: black;
+    margin-top: -15px;
+    padding-bottom: 10px;
+}
+
+nav ul li {
+  width: 100%;
+    color: white;
+    font-size: 28px;
+    list-style: none;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+#mainImage {
+    width: 100%;
+    height: auto;
+    background-color: dimgray;
+}
+
+#image {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: black;
+}
+
+#col1 {
+    width: 100%;
+    height: auto;
+    background-color: aquamarine;
+    float: none;
+}
+
+#col2 {
+    width: 100%;
+    height: auto;
+    background-color: aquamarine;
+    float: none;
+}
+
+#col3 {
+    width: 100%;
+    height: auto;
+    background-color: aquamarine;
+    float: none;
+}
