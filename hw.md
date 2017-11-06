@@ -86,7 +86,9 @@ Points
   * i.e. gallery page
  * All pages must of relevant researched content
 * 2 External Style Sheets with media queries (80 points)
-* HTML - 15 points
+* Create a wireframe/design drawing (10 Points)
+ * One per page, add images to separate HTML page
+* HTML - 5 points
  * Must Used header, main, footer tags
  * Properly written
  * Styles where appropriate
