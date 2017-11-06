@@ -85,9 +85,8 @@ Points
  * Min. One uniquely styled page
   * i.e. gallery page
  * All pages must of relevant researched content
-* 3 External Style Sheets with media queries
- * 3 Different Layouts (75 points)
-* HTML - 20 points
+* 2 External Style Sheets with media queries (80 points)
+* HTML - 15 points
  * Must Used header, main, footer tags
  * Properly written
- * Use h1-h6, other inline styles where appropriate
+ * Styles where appropriate
