@@ -20,14 +20,13 @@ nav ul li {
 #mainImage {
     width: 100%;
     height: auto;
-    background-color: dimgray;
+    background-color: darkgray;
 }
 
 #image {
     width: 100%;
     height: auto;
     margin: 0 auto;
-    background-color: black;
 }
 
 #col1 {

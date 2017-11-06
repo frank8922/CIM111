@@ -51,9 +51,11 @@
         }
 
         #image {
-            width: 700px;
+            width: 500px;
+            height: auto;
             margin: 0 auto;
             background-color: black;
+            display: block;
         }
 
         #col1 {
