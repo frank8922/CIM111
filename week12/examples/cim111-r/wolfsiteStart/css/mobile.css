@@ -43,3 +43,9 @@ header {
     height: auto;
     float: none;
 }
+
+
+.galleryImage{
+  width: 90%;
+  height: auto;
+}

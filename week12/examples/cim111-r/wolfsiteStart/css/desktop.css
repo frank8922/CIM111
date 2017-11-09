@@ -94,3 +94,28 @@
             float:none;
             clear: both;
         }
+
+        .galleryImage{
+          float: left;
+          border-width: 5px;
+          border-color: black;
+          border-style: solid;
+          margin: 10px;
+        }
+
+        .galleryImage:hover{
+          border-color: #999999;
+        }
+
+        a:link,
+a:visited {
+    color: white;
+    text-decoration: none;
+    transition-property: color;
+    transition-duration: .5s;
+}
+
+a:focus,
+a:hover {
+    color: gray;
+}

@@ -55,7 +55,7 @@
             height: auto;
             margin: 0 auto;
             background-color: black;
-            /*display: block;*/
+            display: block;
         }
 
         #col1 {
@@ -100,3 +100,5 @@
             float: none;
             clear: both;
         }
+
+      
