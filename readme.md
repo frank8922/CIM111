@@ -54,26 +54,29 @@
 ### [Week 9 - Media Formats]()
 * Media formats
 
-### [Week 10 - Wrap Up]()
+### [Week 10 - Responsive]()
 
-### [Week 11 – jQuery]()
-* Intro jQuery
+### [Week 11 – Responsive]()
 
-### [Week 12 - jQuery Plugins]()
+### [Week 12 - Responsive]()
 
-### [Week 13 – Finishing up jQuery]()
+### [Week 13 – jQuery]()
 
 ### [Week 14 – Thanksgiving]()
 
-### [Week 15 – Advanced Wordpress]()
+### [Week 15 – jQuery plugins]()
+
+
+### [Week 16 – Advanced Wordpress, Marketing Workshop]()
+
 * Embedding video
 * Understanding Plugins
 * Using HTML/CSS in Wordpress
-
-### [Week 15 – Marketing Workshop]()
 * Twitter
 * Facebook
 * Google Adwords
 * Google analytics
 
-### [Week 16 - Final Project Lab]()
+### [Week 17 - Final Project Lab]()
+
+### [Week 18 - Final Due]()
