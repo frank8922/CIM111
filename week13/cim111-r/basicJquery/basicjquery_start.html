@@ -13,6 +13,8 @@
                 background-color: black;
             }
 
+
+
         </style>
     </head>
 
@@ -37,13 +39,11 @@
 
         <div id="replace"></div>
 
+
         <script src="./js/jquery-3.1.1.min.js"></script>
-
         <script>
-
           $(document).ready(function(){
-            // All instructions go here
-
+            //your code goes in here
             $(".box").css("background-color", "orange");
 
             $("#click").click(function(){
@@ -61,10 +61,13 @@
             $("#hover").mouseenter(function(){
 
               $("#hoverBox").hide();
+
             });
 
             $("#hover").mouseleave(function(){
+
               $("#hoverBox").show();
+
             });
 
             $("#toggle").click(function(){
@@ -74,23 +77,31 @@
             });
 
             $("#button1").click(function(){
-              $("#replace").html("<h1>Important step 1</h1>");
+
+              $("#replace").html("<h1>Important Setup 1</h1>");
+
             });
 
             $("#button2").click(function(){
-              $("#replace").html("<h1>Important step 2</h1>");
+
+              $("#replace").html("<h1>Important Setup 2</h1>");
+
             });
 
             $("#button3").click(function(){
+
               $("#replace").html("<img src='./images/penguin.jpg' width=100>");
+
             });
+
+
 
 
           });
 
 
-
         </script>
+
 
     </body>
 
