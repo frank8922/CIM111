@@ -23,7 +23,7 @@ Choose and implement a jQuery plugin. Create a one page site about a place you w
 
 Create your site in a vacation folder
 
-Due Thursday, April 13
+Due Dec 6-7th
 
 Points:
 * 20 points – Successfully installing/using jQuery Plugin
