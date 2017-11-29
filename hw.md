@@ -113,7 +113,7 @@ Points
 
  Choose and implement a jQuery plugin. Create a one page site about a place you would like to visit. You must apply the plugin on a minimum of 5 Elements or areas on your site.
 
- Name your site vacation.html in a week12 folder
+ Name your site vacation folder
 
  Points:
 * 20 points – Successfully installing/using jQuery Plugin
@@ -131,7 +131,7 @@ Points
   ## Creative Brief & Wireframe (50 Points) Due Dec 4-5th
 
   ### What’s a creative brief?
-    
+
   In the best cases, a creative brief is a document created through initial meetings, interviews, readings and discussions between a client and designer before any work begins. Throughout the project, the creative brief continues to inform and guide the work. A good creative brief will answer these questions:
   * What is this project?
   * Who is it for?
