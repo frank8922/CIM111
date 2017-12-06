@@ -32,29 +32,29 @@
 
     <script type="text/javascript">
         $(document).ready(function () {
-            //$(".fancybox").fancybox();
+            $(".fancybox").fancybox();
 
-            $(".fancybox").fancybox({
-                helpers: {
-                    overlay: {
-                        css: {
-                            'background': 'rgba(58, 42, 45, 0.95)'
-                        }
-                    },
-
-                    title: {
-                        //type: 'float'
-                        type: 'inside'
-                            //type: 'outside'
-                            //type: 'over'
-                    },
-
-                    thumbs: {
-                        width: 50,
-                        height: 50
-                    }
-                }
-            });
+            // $(".fancybox").fancybox({
+            //     helpers: {
+            //         overlay: {
+            //             css: {
+            //                 'background': 'rgba(58, 42, 45, 0.95)'
+            //             }
+            //         },
+            //
+            //         title: {
+            //             //type: 'float'
+            //             type: 'inside'
+            //                 //type: 'outside'
+            //                 //type: 'over'
+            //         },
+            //
+            //         thumbs: {
+            //             width: 50,
+            //             height: 50
+            //         }
+            //     }
+            // });
         });
     </script>
 
@@ -65,7 +65,8 @@
 
 <body>
 
-    <a class="fancybox" rel="group" href="images/penguin1.jpg" title="This is 1st title"><img src="images/penguin1Small.jpg" alt="" /></a>
+    <a class="fancybox" rel="group" href="images/penguin1.jpg" title="This is 1st title">
+      <img src="images/penguin1Small.jpg" alt="" /></a>
     <a class="fancybox" rel="group" href="images/penguin2.jpg" title="This is 2nd title"><img src="images/penguin2Small.jpg" alt="" /></a>
 
 

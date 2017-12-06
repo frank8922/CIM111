@@ -173,8 +173,8 @@ Points
 
   ## ONLINE MARKETING AND SEO PLAN (50 POINTS)
 
-  Come up with a marketing plan for your website. Explain your business rationale and how you are going to reach your target audience? Based on your objectives, come up with a marketing recommendation for your site. What sites do you plan to market on? What keywords are you going to buy? What is the duration of your campaign and total cost?
+  Come up with a marketing plan for your website. Explain your business rationale and how you are going to reach your target audience? Based on your objectives, come up with a marketing recommendation for your site. Choose either twitter, google adwords, or facebook. List what keywords are you going to buy? What is the duration of your campaign and total cost?
 
-  Include screenshots of your campaigns as well as your write up in a blog post.
+  Include screenshots of your campaign as well as your write up in a blog post or add in your hw index.
 
   ## Remember to also put Google analytics on your site (25 POINTS)
